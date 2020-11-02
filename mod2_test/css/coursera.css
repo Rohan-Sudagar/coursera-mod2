@@ -43,9 +43,8 @@
 .heading-panyaram{
 float: right;
 position: relative;
-border-top: 3px solid black;
-border-left: 3px solid black;
-border-bottom: 3px solid black;
+border: 3px solid black;
+
 background-color: lightyellow;
 padding: 10px 20px 10px 10px;
 position: relative;
@@ -54,9 +53,8 @@ top: -65px;
 .heading-dosa{
     float: right;
     position: relative;
-    border-top: 3px solid black;
-border-left: 3px solid black;
-border-bottom: 3px solid black;
+    border: 3px solid black;
+
 padding: 10px 20px 10px 10px;
     background-color: coral;
     position: relative;
@@ -65,9 +63,8 @@ padding: 10px 20px 10px 10px;
 .heading-idli{
     float: right;
     position: relative;
-    border-top: 3px solid black;
-    border-left: 3px solid black;
-    border-bottom: 3px solid black;
+    border: 3px solid black;
+   
     background-color: lightskyblue;
     padding: 10px 20px 10px 10px;
     position: relative;
